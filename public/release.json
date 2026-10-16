@@ -1,7 +1,7 @@
 {
   "applicationId": "com.example.smartwalletpro",
-  "versionCode": 4,
-  "versionName": "2.1.0",
+  "versionCode": 5,
+  "versionName": "2.2.0",
   "downloadUrl": "https://github.com/naylinhtike1356-cyber/SmartWalletPro/raw/refs/heads/main/public/downloads/SmartWalletPro.apk",
-  "releaseNotes": "Home၊ Wallet နှင့် Stats ဒီဇိုင်း ပိုရှင်းလင်းလာပါသည်။ ငွေပမာဏကို ထင်ရှားစွာပြပြီး Budget ပြင်ဆင်မှု၊ အကောင့်ဟောင်းနှင့် ရန်ပုံငွေအသေးစိတ်များကို ခေါက်ဖွင့်ကြည့်နိုင်ပါသည်။ စာရင်းသွင်းဖောင် ပိုရိုးရှင်းလာပြီး အလင်း/အမှောင် နှစ်မျိုးလုံး ပြင်ဆင်ထားပါသည်။"
+  "releaseNotes": "မြန်မာငွေ Ledger ကို Wallet နှင့် ချိတ်ထားပါသည်။ မြန်မာဘဏ်သို့ လွှဲဝင်မှုများ အလိုအလျောက်ပေါ်ပြီး တစ်နေရာမှ ပြင်/ဖျက်လျှင် နှစ်နေရာလုံး ပြောင်းပါသည်။ MMK အကောင့်ရွေးခြင်း၊ ကာလလက်ကျန်နှင့် အဟောင်း Ledger စာရင်းများကို Preview ဖြင့် ချိတ်/ပြောင်းရွှေ့ခြင်း ပါဝင်ပါသည်။ အဟောင်းစာရင်းများကို အလိုအလျောက် မပေါင်းထားပါ။"
 }
