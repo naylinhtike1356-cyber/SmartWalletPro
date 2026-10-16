@@ -1,7 +1,7 @@
 {
   "applicationId": "com.example.smartwalletpro",
-  "versionCode": 3,
-  "versionName": "2.0.0",
+  "versionCode": 4,
+  "versionName": "2.1.0",
   "downloadUrl": "https://github.com/naylinhtike1356-cyber/SmartWalletPro/raw/refs/heads/main/public/downloads/SmartWalletPro.apk",
-  "releaseNotes": "အကောင့်ချင်းလွှဲမှု၊ ငွေကြေးနှစ်မျိုးလွှဲမှုနှင့် ဝန်ဆောင်ခ၊ အကောင့် ID/Archived၊ SMS စစ်ဆေးရန် inbox၊ ဘတ်ဂျက် scope/snapshot၊ လစာခွဲဝေမှု၊ ပန်းတိုင်ထည့်ငွေ၊ statement ညှိမှုနှင့် backup recovery တို့ကို ပြင်ဆင်ထားပါသည်။"
+  "releaseNotes": "Home၊ Wallet နှင့် Stats ဒီဇိုင်း ပိုရှင်းလင်းလာပါသည်။ ငွေပမာဏကို ထင်ရှားစွာပြပြီး Budget ပြင်ဆင်မှု၊ အကောင့်ဟောင်းနှင့် ရန်ပုံငွေအသေးစိတ်များကို ခေါက်ဖွင့်ကြည့်နိုင်ပါသည်။ စာရင်းသွင်းဖောင် ပိုရိုးရှင်းလာပြီး အလင်း/အမှောင် နှစ်မျိုးလုံး ပြင်ဆင်ထားပါသည်။"
 }
